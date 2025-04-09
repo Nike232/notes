@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs base/Vim 常见操作.md",
+                "file": "calculus/vectors det and planes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vim 常见操作"
+              "title": "vectors det and planes"
             }
           }
         ]
@@ -169,5 +169,17 @@
     }
   },
   "active": "3bb0ddce9d3a7ae2",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "calculus/cce9be6f25d8ff92e27224885b6a6679_MIT18_02SC_L2Brds_11.png",
+    "calculus/243fa3145d9da2bcdf17e136cd1bad66_MIT18_02SC_L2Brds_10.png",
+    "calculus/baa9a4ea0bb33800d7ab7d127a008ae4_MIT18_02SC_L2Brds_9.png",
+    "calculus/7d680424b5b6cab9b7f57b9f14d0ff0d_MIT18_02SC_L2Brds_5.png",
+    "imgs/7d680424b5b6cab9b7f57b9f14d0ff0d_MIT18_02SC_L2Brds_5.png",
+    "imgs",
+    "未命名文件夹",
+    "未命名.md",
+    "calculus/vectors det and planes.md",
+    "cs base/Vim 常见操作.md",
+    "calculus"
+  ]
 }
