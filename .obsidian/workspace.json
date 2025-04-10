@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs base/Vim 常见操作.md",
+                "file": "Data structure Note/labuladong/数据结构及排序/二叉树的递归、层序遍历.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vim 常见操作"
+              "title": "二叉树的递归、层序遍历"
             }
           }
         ]
@@ -184,9 +184,12 @@
   },
   "active": "abbb9c14a305df50",
   "lastOpenFiles": [
+    "Data structure Note/labuladong/数据结构及排序/二叉树基础及常见类型.md",
+    "Data structure Note/labuladong/数据结构及排序/二叉树的递归、层序遍历.md",
+    "Data structure Note/labuladong/数据结构及排序/哈希表结构变换.md",
+    "cs base/Vim 常见操作.md",
     "pdfs/高等数学 下册 第二版 (齐民友)(1)_202504091639_31874.pdf",
     "Front desk Note/CSS基础知识1.md",
-    "cs base/Vim 常见操作.md",
     "Data structure Note/labuladong/队列和栈/队列和栈集训刷题.md",
     "calculus/vectors det and planes.md",
     "cs base/shell.md",
