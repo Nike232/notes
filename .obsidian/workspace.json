@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "abc60cb846d6e8d6",
+    "id": "588375c18b5594d8",
     "type": "split",
     "children": [
       {
-        "id": "d082d37129e5dd5c",
+        "id": "18f6cc26ec994cbd",
         "type": "tabs",
         "children": [
           {
-            "id": "40a214d7c89064b6",
+            "id": "4d24f1e829f9a572",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs base/shell.md",
+                "file": "Data structure Note/第四章及kmp算法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shell"
+              "title": "第四章及kmp算法"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1f652ebd56ad132c",
+    "id": "99b231d7e830ac95",
     "type": "split",
     "children": [
       {
-        "id": "d8d053ec900aa94b",
+        "id": "7b29b4e75ca90195",
         "type": "tabs",
         "children": [
           {
-            "id": "6c189e6f427bcca4",
+            "id": "cd0ad1b829a92417",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "2f03224817874a7a",
+            "id": "472fb5fd089a3718",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "8bc67f7d60504706",
+            "id": "04c22dc71ef2fe54",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "ec54f6b380bb87b3",
+    "id": "059ffe9b44657a1c",
     "type": "split",
     "children": [
       {
-        "id": "7597d8e57014956e",
+        "id": "cbc9b13a357cfb8b",
         "type": "tabs",
         "children": [
           {
-            "id": "9807f77354e3e33c",
+            "id": "f7392a277fe5d9fe",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs base/shell.md",
+                "file": "cs base/Vim 常见操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "shell 的反向链接列表"
+              "title": "Vim 常见操作 的反向链接列表"
             }
           },
           {
-            "id": "703d5b878aeff674",
+            "id": "92d3ed5d2d012429",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs base/shell.md",
+                "file": "cs base/Vim 常见操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "shell 的出链列表"
+              "title": "Vim 常见操作 的出链列表"
             }
           },
           {
-            "id": "54493b328c103bd7",
+            "id": "15427847d0145d7b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,26 +137,36 @@
             }
           },
           {
-            "id": "0340d47682736d79",
+            "id": "dc4cddaca3078ae3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs base/shell.md",
+                "file": "cs base/Vim 常见操作.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "shell 的大纲"
+              "title": "Vim 常见操作 的大纲"
+            }
+          },
+          {
+            "id": "9d668cd742139191",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,13 +182,22 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "40a214d7c89064b6",
+  "active": "cd0ad1b829a92417",
   "lastOpenFiles": [
-    "c++ pro learning/pair.md",
-    "c++ pro learning/template.md",
+    "textgenerator/configs/llm/config_4-9151706.json.md",
+    "pdfs/数据结构教程（C++语言描述）（第2版·微课视频版） (李春葆, 匡志强, 蒋.pdf",
+    "pdfs/上-英语国家社会与入门_202504071825_01973.pdf",
+    "pdfs/高等数学 下册 第二版 (齐民友)(1)_202504091639_31874.pdf",
+    "Hardware part Note/位运算.md",
+    "Front desk Note/HTML基本知识2.md",
+    "Data structure Note/作业题中的好题.md",
     "Front desk Note/CSS基础知识1.md",
-    "calculus/vectors det and planes.md",
+    "Front desk Note/HTML基本知识1.md",
+    "cs base/Vim 常见操作.md",
     "cs base/shell.md",
-    "cs base/Vim 常见操作.md"
+    "calculus/vectors det and planes.md",
+    "c++ pro learning/pair.md",
+    "c++ pro learning/setformation.md",
+    "c++ pro learning/template.md"
   ]
 }
