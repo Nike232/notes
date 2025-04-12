@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data structure Note/labuladong/树/二叉树心法（后序+序列化篇）.md",
+                "file": "calculus/多元函数求极值和最值.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "二叉树心法（后序+序列化篇）"
+              "title": "多元函数求极值和最值"
             }
           }
         ]
@@ -184,8 +184,12 @@
   },
   "active": "b72f05ca9f51055f",
   "lastOpenFiles": [
-    "Data structure Note/labuladong/树/二叉树心法（思路+构造篇）.md",
+    "cs base/Vim 常见操作.md",
+    "calculus/多元函数求极值和最值.md",
+    "Data structure Note/期中前/单链表+尾节点.md",
+    "Data structure Note/期中前/期中刷题笔记.md",
     "Data structure Note/labuladong/树/二叉树心法（后序+序列化篇）.md",
+    "Data structure Note/labuladong/树/二叉树心法（思路+构造篇）.md",
     "23452B339D38FDB6237392628BD1E2DC.png",
     "Data structure Note/第四章及kmp算法.md",
     "Data structure Note/作业题中的好题.md",
@@ -194,8 +198,6 @@
     "Data structure Note/labuladong/树/二叉树系列算法核心纲领.md",
     "Data structure Note/labuladong/树/【树】的视角以及两种思维来理解递归.md",
     "Data structure Note/期中前/前三章基本API总结.md",
-    "Data structure Note/期中前/期中刷题笔记.md",
-    "Data structure Note/期中前/单链表+尾节点.md",
     "Data structure Note/labuladong/队列和栈/单调栈.md",
     "数电/数电笔记.md",
     "Data structure Note/期中前/前三章遗漏知识点总结.md",
@@ -204,7 +206,6 @@
     "Data structure Note/labuladong/数据结构及排序/二叉树的递归、层序遍历.md",
     "Data structure Note/labuladong/数据结构及排序/二叉树基础及常见类型.md",
     "cs base/shell.md",
-    "cs base/Shell工具和脚本.md",
-    "cs base/Vim 常见操作.md"
+    "cs base/Shell工具和脚本.md"
   ]
 }
