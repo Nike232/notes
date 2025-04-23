@@ -184,8 +184,11 @@
   },
   "active": "b72f05ca9f51055f",
   "lastOpenFiles": [
-    "这里[]是向上取整.md",
+    "c++ pro learning/pair.md",
+    "c++ pro learning/setformation.md",
+    "c++ pro learning/template.md",
     "Data structure Note/树.md",
+    "这里[]是向上取整.md",
     "Front desk Note/javascript基础知识2.md",
     "Front desk Note/javascript基础知识1.md",
     "cs base/Shell工具和脚本.md",
@@ -207,9 +210,6 @@
     "Data structure Note/labuladong/树/【树】的视角以及两种思维来理解递归.md",
     "Data structure Note/期中前/前三章基本API总结.md",
     "Data structure Note/labuladong/队列和栈/单调栈.md",
-    "数电/数电笔记.md",
-    "Data structure Note/期中前/前三章遗漏知识点总结.md",
-    "Data structure Note/labuladong/数据结构及排序/哈希表原理及实现.md",
-    "Data structure Note/labuladong/写在前面.md"
+    "数电/数电笔记.md"
   ]
 }
