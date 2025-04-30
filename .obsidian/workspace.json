@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data structure Note/树.md",
+                "file": "Data structure Note/labuladong/数据结构及排序/二叉堆核心原理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "树"
+              "title": "二叉堆核心原理"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b37391156c8a665d",
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,6 +185,15 @@
   },
   "active": "1626d95c85b8386e",
   "lastOpenFiles": [
+    "Data structure Note/labuladong/数据结构及排序/Trie树原理.md",
+    "Data structure Note/labuladong/数据结构及排序/二叉堆核心原理.md",
+    "Data structure Note/labuladong/数据结构及排序/二叉搜索树与红黑树.md",
+    "Data structure Note/labuladong/数据结构及排序/哈希表原理及实现.md",
+    "Data structure Note/labuladong/数据结构及排序/哈希表结构变换.md",
+    "Data structure Note/期中前/单链表+尾节点.md",
+    "Data structure Note/期中前/前三章基本API总结.md",
+    "Data structure Note/期中前/前三章遗漏知识点总结.md",
+    "Data structure Note/树.md",
     "算法竞赛/1.基础数据结构/链表.md",
     "textgenerator/configs/llm/config_4-9151708.json.md",
     "算法竞赛/1.基础数据结构",
@@ -192,7 +202,6 @@
     "未命名.md",
     "23452B339D38FDB6237392628BD1E2DC.png",
     "数电/数电笔记.md",
-    "Data structure Note/树.md",
     "c++ pro learning/pair.md",
     "c++ pro learning/setformation.md",
     "c++ pro learning/template.md",
@@ -205,14 +214,6 @@
     "Data structure Note/labuladong/树/二叉树心法（后序+序列化篇）.md",
     "Data structure Note/labuladong/树/二叉树心法（思路+构造篇）.md",
     "calculus/多元函数求极值和最值.md",
-    "cs base/Vim 常见操作.md",
-    "Data structure Note/期中前/单链表+尾节点.md",
-    "Data structure Note/期中前/期中刷题笔记.md",
-    "Data structure Note/第四章及kmp算法.md",
-    "Data structure Note/作业题中的好题.md",
-    "Data structure Note/期中前/一些小细节（前三章）.md",
-    "Data structure Note/期中前/中缀到后缀的转换步骤.md",
-    "Data structure Note/labuladong/树/二叉树系列算法核心纲领.md",
-    "Data structure Note/labuladong/树/【树】的视角以及两种思维来理解递归.md"
+    "cs base/Vim 常见操作.md"
   ]
 }
