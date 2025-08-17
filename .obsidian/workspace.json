@@ -4,21 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "cc1f898a81681580",
+        "id": "9ada61affa0b8698",
         "type": "tabs",
         "children": [
           {
-            "id": "8bfa811069443131",
+            "id": "8b5603becdb62fdc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Algorithm content Node/Acwing/算法基础课/基础算法刷题笔记.md",
-                "mode": "source",
-                "source": false
+                "file": "pdfs/c++ primer plus 第6版 中文版（文字版）非扫描（重制）.pdf",
+                "page": 927,
+                "left": -14,
+                "top": 744,
+                "zoom": 1.096813725490196
               },
-              "icon": "lucide-file",
-              "title": "基础算法刷题笔记"
+              "icon": "lucide-file-text",
+              "title": "c++ primer plus 第6版 中文版（文字版）非扫描（重制）"
             }
           }
         ]
@@ -53,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#include",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs base/shell.md",
+                "file": "c++ pro learning/C++ primer plus/第十一章.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,21 +106,45 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "shell 的反向链接列表"
+              "title": "第十一章 的反向链接列表"
             }
           },
           {
-            "id": "ea96db43c0746212",
+            "id": "12223bc183e2355b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware part Note/数电/时序逻辑电路.md",
+                "file": "c++ pro learning/C++ primer plus/第十章.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "时序逻辑电路"
+              "title": "第十章"
+            }
+          },
+          {
+            "id": "b7765d8dd852d880",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c++ pro learning/C++ primer plus/第十二章.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第十二章"
+            }
+          },
+          {
+            "id": "ca2d8b92b345146e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           },
           {
@@ -156,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data structure Note/labuladong/数据结构及排序/排序/堆排序.md",
+                "file": "c++ pro learning/C++ primer plus/第四章.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "堆排序 的大纲"
+              "title": "第四章 的大纲"
             }
           },
           {
@@ -176,12 +202,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 516.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,45 +222,87 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "8bfa811069443131",
+  "floating": {
+    "id": "467f1d43b95df436",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a6492e87e9b3ddf3",
+        "type": "window",
+        "children": [
+          {
+            "id": "8cd7a3fcc081cb52",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5eb4f12d5c166536",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://obsidian.md/account/commercial",
+                    "title": "Account - Obsidian",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Account - Obsidian"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 341,
+        "y": 80,
+        "width": 1025,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "5eb4f12d5c166536",
   "lastOpenFiles": [
+    "pdfs/c++ primer plus 第6版 中文版（文字版）非扫描（重制）.pdf",
+    "c++ pro learning/C++ primer plus/第十二章.md",
+    "teach/高三英语/第一讲.md",
+    "teach/高三英语",
+    "teach",
+    "c++ pro learning/C++ primer plus/第十章.md",
+    "c++ pro learning/C++ primer plus/第十一章.md",
+    "cd8a9f4c4392311d995fa8ae2302c0fa 1.gif",
+    "calculus/vectors det and planes.md",
+    "mine/未命名 1.md",
+    "c++ pro learning/C++ primer plus/第五章.md",
+    "mine/暑期第一阶段学习计划.md",
+    "mine/未命名.md",
+    "pdfs/机器学习算法竞赛实战 王贺 2021年版.pdf",
+    "c++ pro learning/C++ primer plus/第四章.md",
+    "cd8a9f4c4392311d995fa8ae2302c0fa.gif",
+    "c++ pro learning/C++ primer plus/第九章.md",
+    "c++ pro learning/C++ primer plus/第八章.md",
+    "pdfs/Effective C++中文版（第三版）.pdf",
+    "pdfs/Python编程快速上手—让繁琐工作自动化 PDF中文高清晰完整版.pdf",
+    "pdfs/计院C++教材_202507290817_33077.pdf",
+    "mine",
+    "Hardware part Note/数电/触发器.md",
+    "Hardware part Note/数电/时序逻辑电路.md",
+    "Hardware part Note/数电/组合逻辑电路.md",
+    "Hardware part Note/数电/数制逻辑基础.md",
+    "c++ pro learning/C++ primer plus/第七章.md",
+    "c++ pro learning/C++ primer plus/第三章.md",
+    "c++ pro learning/C++ primer plus/第六章.md",
+    "c++ pro learning/C++ primer plus/第二章.md",
+    "linux/未命名.md",
+    "Pasted image 20250717225324.png",
+    "c++ pro learning/C++ primer plus/Base(一二章).md",
+    "c++ pro learning/C++ primer plus/处理数据(第三章).md",
+    "pdfs/算法竞赛入门经典（第二版） 刘汝佳.pdf",
+    "pdfs/深入理解计算机系统（第三版）.pdf",
+    "Algorithm content Node/labuladong/动态规划/动态规划基本框架.md",
+    "Algorithm content Node/labuladong/搜索/括号生成和集合划分.md",
     "AF9CF8AB6AC99B35118C7441E27B77B4.png",
-    "Algorithm content Node/Acwing/算法基础课/基础算法刷题笔记.md",
-    "Algorithm content Node/Acwing/算法基础课",
-    "Algorithm content Node/Acwing",
     "未命名.canvas",
-    "未命名.md",
-    "Algorithm content Node/labuladong/搜索/回溯算法与DFS算法的若干问题.md",
-    "Algorithm content Node/labuladong/搜索/球盒模型：回溯算法穷举的两种视角.md",
-    "Algorithm content Node/labuladong/搜索/回溯算法框架.md",
-    "Data structure Note/期末复习/串和数组.md",
-    "Data structure Note/期末复习/受限制的线性表——栈和队列.md",
-    "Data structure Note/期末复习/线性表.md",
-    "Data structure Note/期末复习/绪论.md",
-    "Data structure Note/期末复习/重要专题/表达式的求值和转换以及栈与递归的转换.md",
-    "Data structure Note/labuladong/数据结构及排序/二叉堆核心原理.md",
-    "Data structure Note/labuladong/数据结构及排序/二叉堆 优先级队列代码实现.md",
-    "Data structure Note/labuladong/数据结构及排序/二叉树的递归、层序遍历.md",
-    "Data structure Note/labuladong/数据结构及排序/二叉树基础及常见类型.md",
-    "Data structure Note/labuladong/数据结构及排序/二叉搜索树与红黑树.md",
-    "Data structure Note/期末复习/重要专题",
-    "Algorithm content Node/技巧/读入、输出优化.md",
-    "Data structure Note/期末复习",
-    "Algorithm content Node/语言篇/数组和字符串.md",
-    "Algorithm content Node/技巧",
-    "算法竞赛/1.基础数据结构/链表.md",
-    "Algorithm content Node/语言篇/入门.md",
-    "python/book/python并发编程.md",
-    "python/book/第一章.md",
-    "python/Base 2.md",
-    "python/book",
-    "python/反爬.md",
-    "python/Base1.md",
-    "python/Selenium.md",
-    "Algorithm content Node/刷题笔记/搜索",
-    "Algorithm content Node/刷题笔记",
-    "Algorithm content Node/labuladong/搜索",
-    "Algorithm content Node/labuladong",
     "23452B339D38FDB6237392628BD1E2DC.png"
   ]
 }
