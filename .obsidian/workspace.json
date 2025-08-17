@@ -11,16 +11,10 @@
             "id": "8b5603becdb62fdc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "pdfs/c++ primer plus 第6版 中文版（文字版）非扫描（重制）.pdf",
-                "page": 927,
-                "left": -14,
-                "top": 744,
-                "zoom": 1.096813725490196
-              },
-              "icon": "lucide-file-text",
-              "title": "c++ primer plus 第6版 中文版（文字版）非扫描（重制）"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -197,8 +191,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           }
         ],
@@ -222,47 +216,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "floating": {
-    "id": "467f1d43b95df436",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a6492e87e9b3ddf3",
-        "type": "window",
-        "children": [
-          {
-            "id": "8cd7a3fcc081cb52",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5eb4f12d5c166536",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://obsidian.md/account/commercial",
-                    "title": "Account - Obsidian",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Account - Obsidian"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 341,
-        "y": 80,
-        "width": 1025,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "5eb4f12d5c166536",
+  "active": "341e0f6ea016d4b6",
   "lastOpenFiles": [
+    "pdfs/计院C++教材_202507290817_33077.pdf",
+    "pdfs/vbird-linux-basic-4e.pdf",
+    "pdfs/机器学习算法竞赛实战 王贺 2021年版.pdf",
     "pdfs/c++ primer plus 第6版 中文版（文字版）非扫描（重制）.pdf",
     "c++ pro learning/C++ primer plus/第十二章.md",
     "teach/高三英语/第一讲.md",
@@ -276,14 +234,12 @@
     "c++ pro learning/C++ primer plus/第五章.md",
     "mine/暑期第一阶段学习计划.md",
     "mine/未命名.md",
-    "pdfs/机器学习算法竞赛实战 王贺 2021年版.pdf",
     "c++ pro learning/C++ primer plus/第四章.md",
     "cd8a9f4c4392311d995fa8ae2302c0fa.gif",
     "c++ pro learning/C++ primer plus/第九章.md",
     "c++ pro learning/C++ primer plus/第八章.md",
     "pdfs/Effective C++中文版（第三版）.pdf",
     "pdfs/Python编程快速上手—让繁琐工作自动化 PDF中文高清晰完整版.pdf",
-    "pdfs/计院C++教材_202507290817_33077.pdf",
     "mine",
     "Hardware part Note/数电/触发器.md",
     "Hardware part Note/数电/时序逻辑电路.md",
