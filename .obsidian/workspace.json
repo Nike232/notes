@@ -4,17 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9ada61affa0b8698",
+        "id": "3030efaa218768c8",
         "type": "tabs",
         "children": [
           {
-            "id": "8b5603becdb62fdc",
+            "id": "6773d84679db3872",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "pdf",
+              "state": {
+                "file": "pdfs/Linux就该这么学（第2版）_.pdf",
+                "page": 87,
+                "left": -15,
+                "top": 325,
+                "zoom": 1.0222689075630254
+              },
+              "icon": "lucide-file-text",
+              "title": "Linux就该这么学（第2版）_"
             }
           }
         ]
@@ -74,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b37391156c8a665d",
@@ -118,6 +125,20 @@
             }
           },
           {
+            "id": "c8e1c71945ead75e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/1.基础linux命令.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.基础linux命令"
+            }
+          },
+          {
             "id": "b7765d8dd852d880",
             "type": "leaf",
             "state": {
@@ -129,6 +150,20 @@
               },
               "icon": "lucide-file",
               "title": "第十二章"
+            }
+          },
+          {
+            "id": "7103622a687541e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/1.基础linux命令.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.基础linux命令"
             }
           },
           {
@@ -200,10 +235,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 516.5
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -216,18 +252,22 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "341e0f6ea016d4b6",
+  "active": "c8e1c71945ead75e",
   "lastOpenFiles": [
+    "pdfs/Linux就该这么学（第2版）_.pdf",
+    "linux/1.基础linux命令.md",
+    "pdfs/c++ primer plus 第6版 中文版（文字版）非扫描（重制）.pdf",
+    "c++ pro learning/C++ primer plus/第十二章.md",
+    "c++ pro learning/C++ primer plus/第十章.md",
+    "c++ pro learning/C++ primer plus/第十一章.md",
+    "dcf44509c51385aedc7c26dd4d81c60a 1.png",
+    "dcf44509c51385aedc7c26dd4d81c60a.png",
     "pdfs/计院C++教材_202507290817_33077.pdf",
     "pdfs/vbird-linux-basic-4e.pdf",
     "pdfs/机器学习算法竞赛实战 王贺 2021年版.pdf",
-    "pdfs/c++ primer plus 第6版 中文版（文字版）非扫描（重制）.pdf",
-    "c++ pro learning/C++ primer plus/第十二章.md",
     "teach/高三英语/第一讲.md",
     "teach/高三英语",
     "teach",
-    "c++ pro learning/C++ primer plus/第十章.md",
-    "c++ pro learning/C++ primer plus/第十一章.md",
     "cd8a9f4c4392311d995fa8ae2302c0fa 1.gif",
     "calculus/vectors det and planes.md",
     "mine/未命名 1.md",
@@ -249,12 +289,9 @@
     "c++ pro learning/C++ primer plus/第三章.md",
     "c++ pro learning/C++ primer plus/第六章.md",
     "c++ pro learning/C++ primer plus/第二章.md",
-    "linux/未命名.md",
     "Pasted image 20250717225324.png",
     "c++ pro learning/C++ primer plus/Base(一二章).md",
     "c++ pro learning/C++ primer plus/处理数据(第三章).md",
-    "pdfs/算法竞赛入门经典（第二版） 刘汝佳.pdf",
-    "pdfs/深入理解计算机系统（第三版）.pdf",
     "Algorithm content Node/labuladong/动态规划/动态规划基本框架.md",
     "Algorithm content Node/labuladong/搜索/括号生成和集合划分.md",
     "AF9CF8AB6AC99B35118C7441E27B77B4.png",
