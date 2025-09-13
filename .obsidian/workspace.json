@@ -11,16 +11,14 @@
             "id": "73b9705bfb822aa4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "pdfs/Linux就该这么学（第2版）_.pdf",
-                "page": 107,
-                "left": -15,
-                "top": 781,
-                "zoom": 1.0222689075630254
+                "file": "linux/2.管道符、重定向与环境变量.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Linux就该这么学（第2版）_"
+              "icon": "lucide-file",
+              "title": "2.管道符、重定向与环境变量"
             }
           }
         ]
@@ -80,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b37391156c8a665d",
@@ -276,12 +273,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "24a598e758d7d62e",
+  "active": "73b9705bfb822aa4",
   "lastOpenFiles": [
+    "linux/1.常用基础linux命令.md",
     "pdfs/Linux就该这么学（第2版）_.pdf",
     "linux/2.管道符、重定向与环境变量.md",
     "c++ pro learning/C++ primer plus/第十二章.md",
-    "linux/1.常用基础linux命令.md",
     "pdfs/c++ primer plus 第6版 中文版（文字版）非扫描（重制）.pdf",
     "c++ pro learning/C++ primer plus/第十章.md",
     "c++ pro learning/C++ primer plus/第十一章.md",
