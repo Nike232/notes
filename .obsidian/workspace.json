@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3115c5c7409d9cfb",
+        "id": "71fb4e3011cec798",
         "type": "tabs",
         "children": [
           {
-            "id": "73b9705bfb822aa4",
+            "id": "1275d46e487effc6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/pytorch/torch.autograd.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "torch.autograd"
             }
           }
         ]
@@ -104,17 +108,31 @@
             }
           },
           {
-            "id": "12223bc183e2355b",
+            "id": "569e26b738e1e3d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "c++ pro learning/C++ primer plus/第十章.md",
+                "file": "linux/3.Vim复习和Shell脚本.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第十章"
+              "title": "3.Vim复习和Shell脚本"
+            }
+          },
+          {
+            "id": "c9dbbdcdda0cf00c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/2.管道符、重定向与环境变量.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.管道符、重定向与环境变量"
             }
           },
           {
@@ -129,34 +147,6 @@
               },
               "icon": "lucide-file",
               "title": "1.常用基础linux命令"
-            }
-          },
-          {
-            "id": "6773d84679db3872",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/2.管道符、重定向与环境变量.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.管道符、重定向与环境变量"
-            }
-          },
-          {
-            "id": "b7765d8dd852d880",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "c++ pro learning/C++ primer plus/第十二章.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第十二章"
             }
           },
           {
@@ -175,36 +165,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs base/shell.md",
+                "file": "linux/1.常用基础linux命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "shell 的出链列表"
-            }
-          },
-          {
-            "id": "24a598e758d7d62e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/2.管道符、重定向与环境变量.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.管道符、重定向与环境变量"
-            }
-          },
-          {
-            "id": "7103622a687541e0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "1.常用基础linux命令 的出链列表"
             }
           },
           {
@@ -246,13 +212,28 @@
               "icon": "lucide-file",
               "title": "插件不再活动"
             }
+          },
+          {
+            "id": "3a523642017a9270",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/3.Vim复习和Shell脚本.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.Vim复习和Shell脚本"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 401.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,48 +250,52 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "73b9705bfb822aa4",
+  "active": "1275d46e487effc6",
   "lastOpenFiles": [
+    "Machine Learning/pytorch/Tensor.md",
+    "Machine Learning/pytorch/torch.autograd.md",
+    "java/Base.md",
+    "Pasted image 20250917165933.png",
+    "314ceb87f67c0639c83ecf6b1f202c74.jpeg",
+    "python/基础/numpy.md",
+    "java",
+    "python/基础/os模块.md",
+    "linux/3.Vim复习和Shell脚本.md",
     "pdfs/Linux就该这么学（第2版）_.pdf",
+    "Machine Learning/Math/Gradient.md",
+    "Machine Learning/imgs/屏幕截图 2025-09-17 170833.png",
+    "Machine Learning/imgs",
+    "Machine Learning/新建文件夹",
+    "pdfs/mml-book.pdf",
+    "pdfs/Python编程快速上手—让繁琐工作自动化 PDF中文高清晰完整版.pdf",
     "pdfs/c++ primer plus 第6版 中文版（文字版）非扫描（重制）.pdf",
+    "mine/9-10月学习计划.md",
+    "Machine Learning/pytorch/Transforms.md",
+    "Machine Learning/pytorch/Tensorboard.md",
     "linux/2.管道符、重定向与环境变量.md",
+    "Machine Learning/pytorch",
+    "pytorch",
     "linux/1.常用基础linux命令.md",
-    "c++ pro learning/C++ primer plus/第十二章.md",
     "c++ pro learning/C++ primer plus/第十章.md",
+    "c++ pro learning/C++ primer plus/第十二章.md",
+    "python/Selenium.md",
+    "python/基础",
+    "python/Base1.md",
+    "python/Base 2.md",
+    "python/反爬.md",
+    "python/book/第一章.md",
+    "python/book/python并发编程.md",
     "c++ pro learning/C++ primer plus/第十一章.md",
     "dcf44509c51385aedc7c26dd4d81c60a 1.png",
     "dcf44509c51385aedc7c26dd4d81c60a.png",
-    "pdfs/计院C++教材_202507290817_33077.pdf",
-    "pdfs/vbird-linux-basic-4e.pdf",
-    "pdfs/机器学习算法竞赛实战 王贺 2021年版.pdf",
     "teach/高三英语/第一讲.md",
-    "teach/高三英语",
-    "teach",
     "cd8a9f4c4392311d995fa8ae2302c0fa 1.gif",
     "calculus/vectors det and planes.md",
     "mine/未命名 1.md",
     "c++ pro learning/C++ primer plus/第五章.md",
     "mine/暑期第一阶段学习计划.md",
-    "mine/未命名.md",
-    "c++ pro learning/C++ primer plus/第四章.md",
     "cd8a9f4c4392311d995fa8ae2302c0fa.gif",
-    "c++ pro learning/C++ primer plus/第九章.md",
-    "c++ pro learning/C++ primer plus/第八章.md",
-    "pdfs/Effective C++中文版（第三版）.pdf",
-    "pdfs/Python编程快速上手—让繁琐工作自动化 PDF中文高清晰完整版.pdf",
-    "mine",
-    "Hardware part Note/数电/触发器.md",
-    "Hardware part Note/数电/时序逻辑电路.md",
-    "Hardware part Note/数电/组合逻辑电路.md",
-    "Hardware part Note/数电/数制逻辑基础.md",
-    "c++ pro learning/C++ primer plus/第七章.md",
-    "c++ pro learning/C++ primer plus/第三章.md",
-    "c++ pro learning/C++ primer plus/第六章.md",
-    "c++ pro learning/C++ primer plus/第二章.md",
     "Pasted image 20250717225324.png",
-    "c++ pro learning/C++ primer plus/Base(一二章).md",
-    "c++ pro learning/C++ primer plus/处理数据(第三章).md",
-    "Algorithm content Node/labuladong/动态规划/动态规划基本框架.md",
     "AF9CF8AB6AC99B35118C7441E27B77B4.png",
     "未命名.canvas",
     "23452B339D38FDB6237392628BD1E2DC.png"

@@ -1,0 +1,68 @@
+```python
+import os
+```
+获取当前的工作路径
+```
+os.getcwd()
+```
+传入任意一个path路径，返回该路径下所有文件和目录组成的列表(字典序排序 无递归)
+```python
+os.listdir(path)
+```
+传入任意一个Path路径，深层次（递归）遍历得到指定路径下的所有子文件夹，返回一个由路径、文件夹列表、文件列表组成的元组
+```python
+for path,dirs,files in os.walk(path):
+	print(path)#当前路径
+	print(dirs)#当前路径下的文件夹
+	print(files)#当前路径下的文件
+	print("\n")
+```
+传入一个path路径，判断指定路径下的目录是否存在
+```python
+if os.path.exists(path):
+	print("指定文件存在")
+else:
+	print("指定文件夹不存在")
+```
+传入一个Path路径，创建单层文件夹，如果文件夹已经存在，则会报错(用exists判断)
+```python
+if os.path.exists(path):
+	pass
+else:
+	os.mkdir(path)
+```
+创建多层文件夹
+```python
+os.makedirs(path)
+```
+删除**空文件夹**（非空报错）：
+```python
+os.rmdir(path)
+```
+传入两个path路径，将该路径拼接起来
+```python
+os.path.join(path1,path2)
+```
+传入一个完整的文件路径，将其拆分为绝对路径和文件名两个部分，将path分割为目录和文件名并以元组的方式返回
+```python
+os.path.split(path)
+os.path.dirname(path)#只返回目录
+os.path.basename(path)#只返回文件名
+```
+传入一个完整的path路径，判断它是否为文件夹或者文件
+```python
+os.path.isdir(path)
+os.path.isfile(path)
+```
+返回当前操作系统的路径分隔符
+```python
+os.path.sep
+```
+传入一个完整的文件路径，返回该文件的大小(只能计算文件的大小)
+```python
+os.path.getsize(path)
+```
+返回path的绝对路径
+```python
+os.path.abspath(path)
+```
