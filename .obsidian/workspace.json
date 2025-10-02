@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/pytorch/torch.autograd.md",
+                "file": "cs base/Vim 常见操作.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "torch.autograd"
+              "title": "Vim 常见操作"
+            }
+          },
+          {
+            "id": "f5171c75c433f94f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Principles of Computer Organization/第一章.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第一章"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -250,11 +265,18 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "1275d46e487effc6",
+  "active": "341e0f6ea016d4b6",
   "lastOpenFiles": [
-    "Machine Learning/pytorch/Tensor.md",
-    "Machine Learning/pytorch/torch.autograd.md",
+    "mine/9-10月学习计划.md",
+    "Principles of Computer Organization/第一章.md",
+    "Principles of Computer Organization",
+    "Deep Learning/Mnist.md",
+    "java/面向对象编程.md",
+    "Deep Learning",
     "java/Base.md",
+    "Machine Learning/pytorch/Tensor.md",
+    "Machine Learning/pytorch/Tensorboard.md",
+    "Machine Learning/pytorch/torch.autograd.md",
     "Pasted image 20250917165933.png",
     "314ceb87f67c0639c83ecf6b1f202c74.jpeg",
     "python/基础/numpy.md",
@@ -269,17 +291,13 @@
     "pdfs/mml-book.pdf",
     "pdfs/Python编程快速上手—让繁琐工作自动化 PDF中文高清晰完整版.pdf",
     "pdfs/c++ primer plus 第6版 中文版（文字版）非扫描（重制）.pdf",
-    "mine/9-10月学习计划.md",
     "Machine Learning/pytorch/Transforms.md",
-    "Machine Learning/pytorch/Tensorboard.md",
     "linux/2.管道符、重定向与环境变量.md",
     "Machine Learning/pytorch",
-    "pytorch",
     "linux/1.常用基础linux命令.md",
     "c++ pro learning/C++ primer plus/第十章.md",
     "c++ pro learning/C++ primer plus/第十二章.md",
     "python/Selenium.md",
-    "python/基础",
     "python/Base1.md",
     "python/Base 2.md",
     "python/反爬.md",
@@ -291,9 +309,6 @@
     "teach/高三英语/第一讲.md",
     "cd8a9f4c4392311d995fa8ae2302c0fa 1.gif",
     "calculus/vectors det and planes.md",
-    "mine/未命名 1.md",
-    "c++ pro learning/C++ primer plus/第五章.md",
-    "mine/暑期第一阶段学习计划.md",
     "cd8a9f4c4392311d995fa8ae2302c0fa.gif",
     "Pasted image 20250717225324.png",
     "AF9CF8AB6AC99B35118C7441E27B77B4.png",

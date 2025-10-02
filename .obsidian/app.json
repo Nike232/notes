@@ -1,5 +1,3 @@
 {
-  "spellcheck": false,
-  "promptDelete": false,
-  "vimMode": true
+  "promptDelete": false
 }

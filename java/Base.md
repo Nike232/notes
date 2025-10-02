@@ -130,3 +130,61 @@ public class Main{
 	}
 }
 ```
+
+### 判断相等
+判断浮点数相等不用`==`，而是采用小于一个很小的数
+
+判断引用类型相等
+`==`表示引用是否相等，也就是是否是指向同一个对象，而不会比较实际的内容
+比如下面的例子，输出s1!=s2
+```java
+public class Compare  
+{  
+    public static void main(String []args)  
+    {  
+        String s1 = "hello";  
+        String s2 = "HELLO".toLowerCase();  
+        if (s1==s2)System.out.println("s1=s2");  
+        else System.out.println("s1!=s2");  
+    }  
+}
+```
+
+要判断引用类型的变量内容是否相等，必须使用`equals()`的方法
+上面条件可以改成
+```java
+if(s1.equals(s2))...
+```
+但是注意s1不能为null，不然会报错
+
+所以进一步可以优化成
+```java
+if (s1!=null &&s1.equals(s2))...
+```
+
+### switch语句
+旧版和cpp同
+
+从java12开始，支持switch新特性
+```java
+        String fruit = "apple";
+        switch (fruit) {
+        case "apple" -> System.out.println("Selected apple");
+        case "pear" -> System.out.println("Selected pear");
+        case "mango" -> {
+            System.out.println("Selected mango");
+            System.out.println("Good choice!");
+        }
+        default -> System.out.println("No fruit selected");
+        }
+```
+ 还具有返回值
+```java
+        String fruit = "apple";
+        int opt = switch (fruit) {
+            case "apple" -> 1;
+            case "pear", "mango" -> 2;
+            default -> 0;
+        }; // 注意赋值语句要以;结束
+        System.out.println("opt = " + opt);
+```
