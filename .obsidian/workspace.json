@@ -4,39 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "71fb4e3011cec798",
+        "id": "04beb22ef86ae33d",
         "type": "tabs",
         "children": [
           {
-            "id": "1275d46e487effc6",
+            "id": "fb4713fb2a23bbda",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "cs base/Vim 常见操作.md",
-                "mode": "source",
-                "source": false
+                "file": "pdfs/计算机组成与设计++硬件软件接口+risc-v+中文_202510081754_02413.pdf",
+                "page": 151,
+                "left": -36,
+                "top": 2080,
+                "zoom": 0.41250000000000003
               },
-              "icon": "lucide-file",
-              "title": "Vim 常见操作"
-            }
-          },
-          {
-            "id": "f5171c75c433f94f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Principles of Computer Organization/第一章.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第一章"
+              "icon": "lucide-file-text",
+              "title": "计算机组成与设计++硬件软件接口+risc-v+中文_202510081754_02413"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "c++ pro learning/C++ primer plus/第十一章.md",
+                "file": "Principles of Computer Organization/第二章——指令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,49 +106,77 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "第十一章 的反向链接列表"
+              "title": "第二章——指令 的反向链接列表"
             }
           },
           {
-            "id": "569e26b738e1e3d8",
+            "id": "b98842199a0f87ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/3.Vim复习和Shell脚本.md",
+                "file": "Principles of Computer Organization/第三章——计算机的算术运算.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.Vim复习和Shell脚本"
+              "title": "第三章——计算机的算术运算"
             }
           },
           {
-            "id": "c9dbbdcdda0cf00c",
+            "id": "78040c4938f83333",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/2.管道符、重定向与环境变量.md",
+                "file": "Assembly Language/第二章 寄存器（cpu工作原理）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.管道符、重定向与环境变量"
+              "title": "第二章 寄存器（cpu工作原理）"
             }
           },
           {
-            "id": "c8e1c71945ead75e",
+            "id": "1b0501ffd9c85dce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/1.常用基础linux命令.md",
+                "file": "Assembly Language/第一章 基础知识.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.常用基础linux命令"
+              "title": "第一章 基础知识"
+            }
+          },
+          {
+            "id": "f5171c75c433f94f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Principles of Computer Organization/第一章.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第一章"
+            }
+          },
+          {
+            "id": "f2f69bb6683c6779",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Principles of Computer Organization/第二章——指令.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第二章——指令"
             }
           },
           {
@@ -241,14 +256,27 @@
               "icon": "lucide-file",
               "title": "3.Vim复习和Shell脚本"
             }
+          },
+          {
+            "id": "8bff696c997e1015",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assembly Language/第二章 寄存器（cpu工作原理）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第二章 寄存器（cpu工作原理）"
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 401.5,
-    "collapsed": true
+    "width": 531.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,20 +293,32 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "341e0f6ea016d4b6",
+  "active": "fb4713fb2a23bbda",
   "lastOpenFiles": [
-    "mine/9-10月学习计划.md",
+    "Principles of Computer Organization/第三章——计算机的算术运算.md",
+    "Pasted image 20251014233314.png",
+    "pdfs/计算机组成与设计++硬件软件接口+risc-v+中文_202510081754_02413.pdf",
+    "23452B339D38FDB6237392628BD1E2DC.png",
+    "Assembly Language/第二章 寄存器（cpu工作原理）.md",
+    "pdfs/汇编语言.pdf",
+    "java/面向对象编程.md",
+    "Content.md",
+    "314ceb87f67c0639c83ecf6b1f202c74.jpeg",
+    "Pasted image 20250917165933.png",
+    "egpu使用流程.md",
+    "Assembly Language/第一章 基础知识.md",
+    "Assembly Language",
+    "cs base/expect脚本.md",
     "Principles of Computer Organization/第一章.md",
+    "Principles of Computer Organization/第二章——指令.md",
+    "mine/9-10月学习计划.md",
     "Principles of Computer Organization",
     "Deep Learning/Mnist.md",
-    "java/面向对象编程.md",
     "Deep Learning",
     "java/Base.md",
     "Machine Learning/pytorch/Tensor.md",
     "Machine Learning/pytorch/Tensorboard.md",
     "Machine Learning/pytorch/torch.autograd.md",
-    "Pasted image 20250917165933.png",
-    "314ceb87f67c0639c83ecf6b1f202c74.jpeg",
     "python/基础/numpy.md",
     "java",
     "python/基础/os模块.md",
@@ -289,30 +329,17 @@
     "Machine Learning/imgs",
     "Machine Learning/新建文件夹",
     "pdfs/mml-book.pdf",
-    "pdfs/Python编程快速上手—让繁琐工作自动化 PDF中文高清晰完整版.pdf",
-    "pdfs/c++ primer plus 第6版 中文版（文字版）非扫描（重制）.pdf",
     "Machine Learning/pytorch/Transforms.md",
     "linux/2.管道符、重定向与环境变量.md",
-    "Machine Learning/pytorch",
     "linux/1.常用基础linux命令.md",
     "c++ pro learning/C++ primer plus/第十章.md",
     "c++ pro learning/C++ primer plus/第十二章.md",
     "python/Selenium.md",
-    "python/Base1.md",
-    "python/Base 2.md",
-    "python/反爬.md",
-    "python/book/第一章.md",
-    "python/book/python并发编程.md",
-    "c++ pro learning/C++ primer plus/第十一章.md",
     "dcf44509c51385aedc7c26dd4d81c60a 1.png",
     "dcf44509c51385aedc7c26dd4d81c60a.png",
-    "teach/高三英语/第一讲.md",
     "cd8a9f4c4392311d995fa8ae2302c0fa 1.gif",
-    "calculus/vectors det and planes.md",
     "cd8a9f4c4392311d995fa8ae2302c0fa.gif",
     "Pasted image 20250717225324.png",
-    "AF9CF8AB6AC99B35118C7441E27B77B4.png",
-    "未命名.canvas",
-    "23452B339D38FDB6237392628BD1E2DC.png"
+    "未命名.canvas"
   ]
 }
