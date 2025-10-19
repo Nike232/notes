@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "04beb22ef86ae33d",
+        "id": "aa42044c2788526e",
         "type": "tabs",
         "children": [
           {
-            "id": "fb4713fb2a23bbda",
+            "id": "b04ed6695dde5c64",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "pdfs/计算机组成与设计++硬件软件接口+risc-v+中文_202510081754_02413.pdf",
-                "page": 151,
-                "left": -36,
-                "top": 2080,
-                "zoom": 0.41250000000000003
+                "page": 197,
+                "left": -30,
+                "top": 44,
+                "zoom": 0.52171875
               },
               "icon": "lucide-file-text",
               "title": "计算机组成与设计++硬件软件接口+risc-v+中文_202510081754_02413"
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b37391156c8a665d",
@@ -107,6 +108,20 @@
               },
               "icon": "links-coming-in",
               "title": "第二章——指令 的反向链接列表"
+            }
+          },
+          {
+            "id": "edc71d637a46485d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Principles of Computer Organization/第二章——指令.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第二章——指令"
             }
           },
           {
@@ -270,13 +285,27 @@
               "icon": "lucide-file",
               "title": "第二章 寄存器（cpu工作原理）"
             }
+          },
+          {
+            "id": "76154715df0fdd06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Principles of Computer Organization/第二章——指令.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第二章——指令"
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 531.5
+    "width": 498.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -293,29 +322,31 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "fb4713fb2a23bbda",
+  "active": "edc71d637a46485d",
   "lastOpenFiles": [
-    "Principles of Computer Organization/第三章——计算机的算术运算.md",
-    "Pasted image 20251014233314.png",
     "pdfs/计算机组成与设计++硬件软件接口+risc-v+中文_202510081754_02413.pdf",
+    "Principles of Computer Organization/第二章——指令.md",
+    "Principles of Computer Organization/第三章——计算机的算术运算.md",
+    "Principles of Computer Organization/第一章.md",
+    "pdfs/c++ primer plus 第6版 中文版（文字版）非扫描（重制）.pdf",
+    "linux/2.管道符、重定向与环境变量.md",
+    "Content.md",
+    "java/面向对象编程.md",
+    "java/Base.md",
+    "Pasted image 20251014233314.png",
     "23452B339D38FDB6237392628BD1E2DC.png",
     "Assembly Language/第二章 寄存器（cpu工作原理）.md",
     "pdfs/汇编语言.pdf",
-    "java/面向对象编程.md",
-    "Content.md",
     "314ceb87f67c0639c83ecf6b1f202c74.jpeg",
     "Pasted image 20250917165933.png",
     "egpu使用流程.md",
     "Assembly Language/第一章 基础知识.md",
     "Assembly Language",
     "cs base/expect脚本.md",
-    "Principles of Computer Organization/第一章.md",
-    "Principles of Computer Organization/第二章——指令.md",
     "mine/9-10月学习计划.md",
     "Principles of Computer Organization",
     "Deep Learning/Mnist.md",
     "Deep Learning",
-    "java/Base.md",
     "Machine Learning/pytorch/Tensor.md",
     "Machine Learning/pytorch/Tensorboard.md",
     "Machine Learning/pytorch/torch.autograd.md",
@@ -328,9 +359,7 @@
     "Machine Learning/imgs/屏幕截图 2025-09-17 170833.png",
     "Machine Learning/imgs",
     "Machine Learning/新建文件夹",
-    "pdfs/mml-book.pdf",
     "Machine Learning/pytorch/Transforms.md",
-    "linux/2.管道符、重定向与环境变量.md",
     "linux/1.常用基础linux命令.md",
     "c++ pro learning/C++ primer plus/第十章.md",
     "c++ pro learning/C++ primer plus/第十二章.md",

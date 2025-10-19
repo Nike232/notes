@@ -117,7 +117,7 @@ System.out.printf("%.4.f\n",d);
 
 #### 输入
 ```java
-import java.util.Scanner
+import java.util.Scanner;
 public class Main{
 	public static void main(String[] args)
 	{
@@ -188,3 +188,4 @@ if (s1!=null &&s1.equals(s2))...
         }; // 注意赋值语句要以;结束
         System.out.println("opt = " + opt);
 ```
+如果是代码块中返回值，则必须用yield
